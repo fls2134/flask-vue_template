@@ -1,1 +1,1 @@
-# mega_student_management
+# Flask Vue Link Template
